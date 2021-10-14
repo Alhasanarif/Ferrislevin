@@ -3089,7 +3089,6 @@ body {
 @media (max-width:1023px) {
     .uc-appBody .uc-appContainer,
     html body.uc-appBody {
-        --navHeight: 48px;
         display: block;
         height: auto
     }
